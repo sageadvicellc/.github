@@ -4,9 +4,9 @@
 
 ## The team
 
-<img src="assets/team.webp" alt="The team: Hanna, Coda, Emery and Darcey" width="640">
+<img src="assets/team.webp" alt="The team: Hanna, Coda, Pixel, Emery and Darcey" width="640">
 
-Hanna, Coda, Emery and Darcey.
+Hanna, Coda, Pixel, Emery and Darcey.
 
 ## The crew
 
