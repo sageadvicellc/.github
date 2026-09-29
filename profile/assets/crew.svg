@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 310" role="img" aria-labelledby="t">
+<title id="t">The crew: an orchestrator and six roles</title>
+<style>
+:root{--ink:#163D26;--fg:#163D26;--muted:#57606A;--card:#F6F8FA;--line:#D0D7DE;--node:#FFFFFF}
+@media (prefers-color-scheme:dark){:root{--ink:#E6EDF3;--fg:#E6EDF3;--muted:#8B949E;--card:#161B22;--line:#30363D;--node:#0D1117}}
+.ink{fill:var(--ink)}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--fg)}
+.muted{fill:var(--muted)}
+
+.edge{stroke:var(--line);stroke-width:2;fill:none;stroke-dasharray:1;stroke-dashoffset:1;animation:draw .8s ease-out both}
+.node rect{fill:var(--node);stroke:var(--ink);stroke-width:1.5}
+.node{animation:pop .5s cubic-bezier(.23,1,.32,1) both}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.edge,.node{animation:none}.edge{stroke-dashoffset:0}}
+</style>
+<path class="edge" pathLength="1" d="M320 62 V230"/>
+<path class="edge" pathLength="1" style="animation-delay:0.30s" d="M320 110 H222.5"/>
+<path class="edge" pathLength="1" style="animation-delay:0.38s" d="M320 110 H386.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.46s" d="M320 170 H236.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.54s" d="M320 170 H422.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.62s" d="M320 230 H204.5"/>
+<path class="edge" pathLength="1" style="animation-delay:0.70s" d="M320 230 H431.0"/>
+<g class="node" style="animation-delay:0.00s"><rect x="254" y="18" width="132" height="44" rx="8"/><text x="320" y="45" font-size="15" text-anchor="middle">Orchestrator</text></g>
+<g class="node" style="animation-delay:0.08s"><rect x="118" y="88" width="105" height="44" rx="8"/><text x="170" y="115" font-size="15" text-anchor="middle">Tech Lead</text></g>
+<g class="node" style="animation-delay:0.16s"><rect x="386" y="88" width="168" height="44" rx="8"/><text x="470" y="115" font-size="15" text-anchor="middle">Delivery Manager</text></g>
+<g class="node" style="animation-delay:0.24s"><rect x="104" y="148" width="132" height="44" rx="8"/><text x="170" y="175" font-size="15" text-anchor="middle">Benchmarking</text></g>
+<g class="node" style="animation-delay:0.32s"><rect x="422" y="148" width="96" height="44" rx="8"/><text x="470" y="175" font-size="15" text-anchor="middle">Research</text></g>
+<g class="node" style="animation-delay:0.40s"><rect x="136" y="208" width="69" height="44" rx="8"/><text x="170" y="235" font-size="15" text-anchor="middle">Pixel</text></g>
+<g class="node" style="animation-delay:0.48s"><rect x="431" y="208" width="78" height="44" rx="8"/><text x="470" y="235" font-size="15" text-anchor="middle">Worker</text></g>
+</svg>
