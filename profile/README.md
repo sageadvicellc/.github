@@ -4,23 +4,33 @@
 
 ## The team
 
-<img src="assets/team.webp" alt="The team: Hanna, Coda, Pixel, Emery and Darcey" width="640">
+<img src="assets/team.webp" alt="The team photo: Hanna, Coda, Pixel, Emery and Darcey" width="640">
 
-Hanna, Coda, Pixel, Emery and Darcey.
+In the photo: Hanna, Coda, Pixel, Emery and Darcey.
+
+The staff today:
+
+- Pixel, PA
+- Emery, Orchestrator
+- Coda, Tech Lead and security
+- Wren, Delivery Manager
+- Skye, Benchmarking
+- Alakaʻi, PM
+- Darcey, Research
+
+Workers show as Agent #, and the worker bot is H4N-N4.
 
 ## The crew
 
-<img src="assets/crew.svg" alt="The crew: a founder, a workforce orchestrator and seven roles. Dashed boxes are planned roles." width="640">
-
-Dashed boxes are roles that are planned and not built yet.
+<img src="assets/crew.svg" alt="The crew: Founder, Emery (Orchestrator), Pixel (PA), Coda (Tech Lead and security), Wren (Delivery Manager), Alakaʻi (PM), Darcey (Research), Skye (Benchmarking), and workers shown as Agent #" width="640">
 
 ## Departments
 
 <p>
-<img src="assets/dept-leadership.svg" alt="Leadership, led by the Founder: Workforce Orchestrator (planned), Personal Assistant (planned), Pixel" width="280">
-<img src="assets/dept-engineering.svg" alt="Engineering, led by the Tech Lead (planned): Worker" width="280">
-<img src="assets/dept-delivery.svg" alt="Delivery, led by the Delivery Manager (planned)" width="280">
-<img src="assets/dept-research.svg" alt="Research, led by Research: Benchmarking (planned)" width="280">
+<img src="assets/dept-leadership.svg" alt="Leadership. Lead: Emery, Orchestrator. Also: Pixel, PA" width="280">
+<img src="assets/dept-engineering.svg" alt="Engineering. Lead: Coda, Tech Lead and security. Also: Agent # (Worker), H4N-N4 (Worker bot)" width="280">
+<img src="assets/dept-delivery.svg" alt="Delivery. Lead: Wren, Delivery Manager. Also: Alakaʻi, PM" width="280">
+<img src="assets/dept-research.svg" alt="Research. Lead: Darcey, Research. Also: Skye, Benchmarking" width="280">
 </p>
 
 ## Open source

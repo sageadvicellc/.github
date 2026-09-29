@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t">
-<title id="t">The crew: a founder, a workforce orchestrator and seven roles, coloured by department. Dashed boxes are planned roles.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-labelledby="t">
+<title id="t">The crew: Founder, Emery (Orchestrator), Pixel (PA), Coda (Tech Lead and security), Wren (Delivery Manager), Alakaʻi (PM), Darcey (Research), Skye (Benchmarking), and workers shown as Agent #. Coloured by department.</title>
 <style>
 :root{--fg:#1F2328;--muted:#57606A;--card:#F6F8FA;--line:#D0D7DE;--node:#FFFFFF;--leadership:#7C3AED;--engineering:#0969DA;--delivery:#BF8700;--research:#1A7F37;}
 @media (prefers-color-scheme:dark){:root{--fg:#E6EDF3;--muted:#8B949E;--card:#161B22;--line:#30363D;--node:#0D1117;--leadership:#A78BFA;--engineering:#58A6FF;--delivery:#D29922;--research:#3FB950;}}
@@ -8,27 +8,26 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 
 .edge{stroke:var(--line);stroke-width:2;fill:none;stroke-dasharray:1;stroke-dashoffset:1;animation:draw .8s ease-out both}
 .node rect{fill:var(--node);stroke-width:2}
-.planned rect{stroke-dasharray:5 4}
 .node{animation:pop .5s cubic-bezier(.23,1,.32,1) both}
 @keyframes draw{to{stroke-dashoffset:0}}
 @keyframes pop{from{opacity:0}to{opacity:1}}
 @media (prefers-reduced-motion:reduce){.edge,.node{animation:none}.edge{stroke-dashoffset:0}}
 </style>
-<path class="edge" pathLength="1" d="M320 58 V350"/>
-<path class="edge" pathLength="1" style="animation-delay:0.30s" d="M320 170 H248.0"/>
-<path class="edge" pathLength="1" style="animation-delay:0.38s" d="M320 170 H432.5"/>
-<path class="edge" pathLength="1" style="animation-delay:0.46s" d="M320 230 H239.0"/>
-<path class="edge" pathLength="1" style="animation-delay:0.54s" d="M320 230 H450.5"/>
-<path class="edge" pathLength="1" style="animation-delay:0.62s" d="M320 290 H203.0"/>
-<path class="edge" pathLength="1" style="animation-delay:0.70s" d="M320 290 H419.0"/>
-<path class="edge" pathLength="1" style="animation-delay:0.78s" d="M320 350 H194.0"/>
-<g class="node" style="animation-delay:0.00s"><rect x="276" y="14" width="87" height="44" rx="8" style="stroke:var(--leadership)"/><text x="320" y="41" font-size="15" text-anchor="middle">Founder</text></g>
-<g class="node planned" style="animation-delay:0.08s"><rect x="209" y="78" width="222" height="44" rx="8" style="stroke:var(--leadership)"/><text x="320" y="105" font-size="15" text-anchor="middle">Workforce Orchestrator</text></g>
-<g class="node planned" style="animation-delay:0.16s"><rect x="62" y="148" width="186" height="44" rx="8" style="stroke:var(--leadership)"/><text x="155" y="175" font-size="15" text-anchor="middle">Personal Assistant</text></g>
-<g class="node planned" style="animation-delay:0.24s"><rect x="432" y="148" width="105" height="44" rx="8" style="stroke:var(--engineering)"/><text x="485" y="175" font-size="15" text-anchor="middle">Tech Lead</text></g>
-<g class="node planned" style="animation-delay:0.32s"><rect x="71" y="208" width="168" height="44" rx="8" style="stroke:var(--delivery)"/><text x="155" y="235" font-size="15" text-anchor="middle">Delivery Manager</text></g>
-<g class="node" style="animation-delay:0.40s"><rect x="450" y="208" width="69" height="44" rx="8" style="stroke:var(--leadership)"/><text x="485" y="235" font-size="15" text-anchor="middle">Pixel</text></g>
-<g class="node" style="animation-delay:0.48s"><rect x="107" y="268" width="96" height="44" rx="8" style="stroke:var(--research)"/><text x="155" y="295" font-size="15" text-anchor="middle">Research</text></g>
-<g class="node planned" style="animation-delay:0.56s"><rect x="419" y="268" width="132" height="44" rx="8" style="stroke:var(--research)"/><text x="485" y="295" font-size="15" text-anchor="middle">Benchmarking</text></g>
-<g class="node" style="animation-delay:0.64s"><rect x="116" y="328" width="78" height="44" rx="8" style="stroke:var(--engineering)"/><text x="155" y="355" font-size="15" text-anchor="middle">Worker</text></g>
+<path class="edge" pathLength="1" d="M320 58 V378"/>
+<path class="edge" pathLength="1" style="animation-delay:0.30s" d="M320 180 H189.5"/>
+<path class="edge" pathLength="1" style="animation-delay:0.38s" d="M320 180 H396.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.46s" d="M320 246 H223.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.54s" d="M320 246 H441.5"/>
+<path class="edge" pathLength="1" style="animation-delay:0.62s" d="M320 312 H195.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.70s" d="M320 312 H431.0"/>
+<path class="edge" pathLength="1" style="animation-delay:0.78s" d="M320 378 H198.5"/>
+<g class="node" style="animation-delay:0.00s"><rect x="276" y="10" width="87" height="48" rx="8" style="stroke:var(--leadership)"/><text x="320" y="39" font-size="15" text-anchor="middle">Founder</text></g>
+<g class="node" style="animation-delay:0.08s"><rect x="266" y="80" width="108" height="48" rx="8" style="stroke:var(--leadership)"/><text x="320" y="100" font-size="15" text-anchor="middle">Emery</text><text class="muted" x="320" y="118" font-size="12" text-anchor="middle">Orchestrator</text></g>
+<g class="node" style="animation-delay:0.16s"><rect x="120" y="156" width="69" height="48" rx="8" style="stroke:var(--leadership)"/><text x="155" y="176" font-size="15" text-anchor="middle">Pixel</text><text class="muted" x="155" y="194" font-size="12" text-anchor="middle">PA</text></g>
+<g class="node" style="animation-delay:0.24s"><rect x="396" y="156" width="178" height="48" rx="8" style="stroke:var(--engineering)"/><text x="485" y="176" font-size="15" text-anchor="middle">Coda</text><text class="muted" x="485" y="194" font-size="12" text-anchor="middle">Tech Lead and security</text></g>
+<g class="node" style="animation-delay:0.32s"><rect x="87" y="222" width="136" height="48" rx="8" style="stroke:var(--delivery)"/><text x="155" y="242" font-size="15" text-anchor="middle">Wren</text><text class="muted" x="155" y="260" font-size="12" text-anchor="middle">Delivery Manager</text></g>
+<g class="node" style="animation-delay:0.40s"><rect x="442" y="222" width="87" height="48" rx="8" style="stroke:var(--delivery)"/><text x="485" y="242" font-size="15" text-anchor="middle">Alakaʻi</text><text class="muted" x="485" y="260" font-size="12" text-anchor="middle">PM</text></g>
+<g class="node" style="animation-delay:0.48s"><rect x="115" y="288" width="80" height="48" rx="8" style="stroke:var(--research)"/><text x="155" y="308" font-size="15" text-anchor="middle">Darcey</text><text class="muted" x="155" y="326" font-size="12" text-anchor="middle">Research</text></g>
+<g class="node" style="animation-delay:0.56s"><rect x="431" y="288" width="108" height="48" rx="8" style="stroke:var(--research)"/><text x="485" y="308" font-size="15" text-anchor="middle">Skye</text><text class="muted" x="485" y="326" font-size="12" text-anchor="middle">Benchmarking</text></g>
+<g class="node" style="animation-delay:0.64s"><rect x="112" y="354" width="87" height="48" rx="8" style="stroke:var(--engineering)"/><text x="155" y="374" font-size="15" text-anchor="middle">Agent #</text><text class="muted" x="155" y="392" font-size="12" text-anchor="middle">Worker</text></g>
 </svg>
