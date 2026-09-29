@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" role="img" aria-labelledby="t">
+<title id="t">Delivery department, led by Delivery Manager</title>
+<style>
+:root{--fg:#1F2328;--muted:#57606A;--card:#F6F8FA;--line:#D0D7DE;--node:#FFFFFF;--leadership:#7C3AED;--engineering:#0969DA;--delivery:#BF8700;--research:#1A7F37;}
+@media (prefers-color-scheme:dark){:root{--fg:#E6EDF3;--muted:#8B949E;--card:#161B22;--line:#30363D;--node:#0D1117;--leadership:#A78BFA;--engineering:#58A6FF;--delivery:#D29922;--research:#3FB950;}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--fg)}
+.muted{fill:var(--muted)}
+
+.card{fill:var(--card);stroke:var(--line);stroke-width:1.5}
+.bar{fill:var(--delivery);transform-box:fill-box;transform-origin:0 50%;animation:grow .7s cubic-bezier(.23,1,.32,1) both}
+.dot{fill:var(--delivery);opacity:.18}
+.ring{fill:none;stroke:var(--delivery);stroke-width:2}
+.ini{fill:var(--delivery)}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.bar{animation:none}}
+</style>
+<rect class="card" x="1" y="1" width="298" height="188" rx="10"/>
+<rect class="bar" x="1" y="1" width="298" height="8" rx="4"/>
+<circle class="dot" cx="52" cy="62" r="28"/><circle class="ring" cx="52" cy="62" r="28"/>
+<text class="ini" x="52" y="71" font-size="26" font-weight="600" text-anchor="middle">D</text>
+<text x="96" y="56" font-size="20" font-weight="600">Delivery</text>
+<text class="muted" x="96" y="78" font-size="14">Lead: Delivery Manager</text>
+
+</svg>
