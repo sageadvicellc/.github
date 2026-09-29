@@ -18,7 +18,7 @@ The staff today:
 - Alakaʻi, PM
 - Darcey, Research
 
-Workers show as Agent #, and the worker bot is H4N-N4.
+Workers show as Agent #. H4N-N4 is the GitHub App the Agent # workers act through, for pull requests, comments, and later the merge gate.
 
 ## The crew
 
@@ -28,7 +28,7 @@ Workers show as Agent #, and the worker bot is H4N-N4.
 
 <p>
 <img src="assets/dept-leadership.svg" alt="Leadership. Lead: Emery, Orchestrator. Also: Pixel, PA" width="280">
-<img src="assets/dept-engineering.svg" alt="Engineering. Lead: Coda, Tech Lead and security. Also: Agent # (Worker), H4N-N4 (Worker bot)" width="280">
+<img src="assets/dept-engineering.svg" alt="Engineering. Lead: Coda, Tech Lead and security. Also: Agent # (Worker), H4N-N4 (the GitHub App the workers act through)" width="280">
 <img src="assets/dept-delivery.svg" alt="Delivery. Lead: Wren, Delivery Manager. Also: Alakaʻi, PM" width="280">
 <img src="assets/dept-research.svg" alt="Research. Lead: Darcey, Research. Also: Skye, Benchmarking" width="280">
 </p>
