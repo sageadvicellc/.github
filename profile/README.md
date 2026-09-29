@@ -2,6 +2,12 @@
 
 <p align="center"><b>May we offer you some sage advice?</b></p>
 
+## The team
+
+<img src="assets/team.webp" alt="The team: Hanna, Coda, Emery and Darcey" width="640">
+
+Hanna, Coda, Emery and Darcey.
+
 ## The crew
 
 <img src="assets/crew.svg" alt="The crew: a founder, a workforce orchestrator and seven roles. Dashed boxes are planned roles." width="640">
