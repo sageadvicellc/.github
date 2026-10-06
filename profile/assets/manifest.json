@@ -99,12 +99,12 @@
     },
     {
       "file": "sage-advice-wordmark-dark.svg",
-      "sha256": "35f3f9f2756b17975c99910464336c3211f1a7432128ae5e2eac7feea45352ae",
+      "sha256": "3345af764397923653e8c7e71445fa5084d1c69b4c2917f77a72868e61dbb856",
       "bytes": 3034875,
       "source_record": "outputs/brand-kit/round-05/sage-advice-spaced.png",
       "source_sha256": "aa5d19759e12d21c1f6cec092b96e5c708005abc1fce1c8cbb36774228797924",
       "method": "SVG viewport over byte-identical embedded approved raster board; no repainting, relettering, resampling or generation",
-      "viewBox": "1025 30 475 325",
+      "viewBox": "1025 30 475 315",
       "raster_dimensions": [
         1536,
         1024
