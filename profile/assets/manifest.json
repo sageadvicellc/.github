@@ -43,8 +43,74 @@
       "bytes": 1144,
       "source_record": "outputs/brand-kit/round-05/s4-g3-icon-dark.svg",
       "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "divider-portable-teams-light.png",
+      "sha256": "e65ab1bfa8dce208d0c298b257f756ab6d084cf5656466858d77b8501f04af9a",
+      "bytes": 19373,
+      "source_url": "https://raw.githubusercontent.com/sageadvicellc/bowerloom/e93df47c26c48dee0c9e8949d8fceacec37260a0/docs/assets/readme-beta/exports/portable-teams-light.png",
+      "source_revision": "e93df47c26c48dee0c9e8949d8fceacec37260a0",
+      "method": "Unchanged copy from public feature branch"
+    },
+    {
+      "file": "divider-portable-teams-dark.png",
+      "sha256": "c0611e804a93e3ce39d2eb93f9b0202106e344b919ce67608ed7c6f64efde3a5",
+      "bytes": 20594,
+      "source_url": "https://raw.githubusercontent.com/sageadvicellc/bowerloom/e93df47c26c48dee0c9e8949d8fceacec37260a0/docs/assets/readme-beta/exports/portable-teams-dark.png",
+      "source_revision": "e93df47c26c48dee0c9e8949d8fceacec37260a0",
+      "method": "Unchanged copy from public feature branch"
+    },
+    {
+      "file": "divider-contributing-light.png",
+      "sha256": "be93edfcdbd3356fdb0c843d5c8cfd6d4238575aac4b89bc1b48d842b18e8d71",
+      "bytes": 20409,
+      "source_url": "https://raw.githubusercontent.com/sageadvicellc/bowerloom/e93df47c26c48dee0c9e8949d8fceacec37260a0/docs/assets/readme-beta/exports/contributing-light.png",
+      "source_revision": "e93df47c26c48dee0c9e8949d8fceacec37260a0",
+      "method": "Unchanged copy from public feature branch"
+    },
+    {
+      "file": "divider-contributing-dark.png",
+      "sha256": "110c2c4748932c356d6527124b71ba2b273f9aff0b043f8ff243d2db7ed63be5",
+      "bytes": 21617,
+      "source_url": "https://raw.githubusercontent.com/sageadvicellc/bowerloom/e93df47c26c48dee0c9e8949d8fceacec37260a0/docs/assets/readme-beta/exports/contributing-dark.png",
+      "source_revision": "e93df47c26c48dee0c9e8949d8fceacec37260a0",
+      "method": "Unchanged copy from public feature branch"
+    },
+    {
+      "file": "s4-g3-footer-wave.png",
+      "sha256": "d57cf158391789ef9c841521ee2022f536548c6b6de1966b6ce2a522192f9f70",
+      "bytes": 1748107,
+      "source_url": "https://raw.githubusercontent.com/sageadvicellc/bowerloom/e93df47c26c48dee0c9e8949d8fceacec37260a0/apps/landing/public/panel-units/s4-g3-footer-wave.png",
+      "source_revision": "e93df47c26c48dee0c9e8949d8fceacec37260a0",
+      "method": "Unchanged copy from public feature branch"
+    },
+    {
+      "file": "sage-advice-wordmark-light.svg",
+      "sha256": "23ea16ba2c371061aa7e0e6f8ccace4fdb6dbe38e21e9fac96185157c489fb6e",
+      "bytes": 3034874,
+      "source_record": "outputs/brand-kit/round-05/sage-advice-spaced.png",
+      "source_sha256": "aa5d19759e12d21c1f6cec092b96e5c708005abc1fce1c8cbb36774228797924",
+      "method": "SVG viewport over byte-identical embedded approved raster board; no repainting, relettering, resampling or generation",
+      "viewBox": "70 140 870 700",
+      "raster_dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "sage-advice-wordmark-dark.svg",
+      "sha256": "35f3f9f2756b17975c99910464336c3211f1a7432128ae5e2eac7feea45352ae",
+      "bytes": 3034875,
+      "source_record": "outputs/brand-kit/round-05/sage-advice-spaced.png",
+      "source_sha256": "aa5d19759e12d21c1f6cec092b96e5c708005abc1fce1c8cbb36774228797924",
+      "method": "SVG viewport over byte-identical embedded approved raster board; no repainting, relettering, resampling or generation",
+      "viewBox": "1025 30 475 325",
+      "raster_dimensions": [
+        1536,
+        1024
+      ]
     }
   ],
-  "source_record_note": "Source records identify the retained brand-kit handoff, not public download URLs.",
+  "source_record_note": "Source URLs identify immutable public source files. Local source records identify retained approved brand-kit handoffs. README asset paths resolve to public files in this repository.",
   "license_note": "No third-party asset license or blanket reuse license is introduced by this manifest. See PROVENANCE.md."
 }
