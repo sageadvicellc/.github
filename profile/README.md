@@ -22,9 +22,9 @@ Our open-source work starts with things we need ourselves. We share it so anothe
   <img src="assets/bowerloom-wordmark-ink.svg" alt="Bowerloom" width="280">
 </picture>
 
-Build agent teams around readable definitions for roles, skills, and permissions. Keep those definitions outside any individual agent app.
+Bowerloom combines portable agent teams with reviewable workflows and explicit approval. Define roles, skills, and permissions in readable files outside any individual agent app.
 
-Bowerloom connects that portable team model with reviewable workflows and recorded work. Its prepared GitHub workflow binds approval to the proposed change before a write. Publication and merging remain separate decisions.
+Its prepared GitHub workflow binds approval to the proposed change before a write and records the work. Publication and merging remain separate decisions.
 
 The public source includes a local alpha trial. Read the current evidence and setup instructions before you depend on a capability. A public repository does not mean a hosted service or general release is available.
 
@@ -32,7 +32,7 @@ The public source includes a local alpha trial. Read the current evidence and se
 
 ### Bowerloom Workbench
 
-The framework test bench and development environment. Use the project’s experiments to investigate changes before you depend on them in a working setup.
+The framework test bench and development environment for experiments and repeatable testing. Its repository documents the current work and test instructions.
 
 [Explore Bowerloom Workbench](https://github.com/sageadvicellc/bowerloom-workbench)
 
