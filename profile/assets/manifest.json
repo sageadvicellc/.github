@@ -1,0 +1,50 @@
+{
+  "collection": "Sage Advice organization profile",
+  "prepared": "2026-10-06",
+  "assets": [
+    {
+      "file": "sage-leaves-daytime.png",
+      "sha256": "3c3868b38dbc27d9d1d84c921cd0e73d388f9272b5e019b1c76e496b95499ce3",
+      "bytes": 1931888,
+      "source_record": "outputs/brand-kit/sage-leaf-icons/sage-leaves-daytime.png",
+      "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "sage-leaves-after-hours.png",
+      "sha256": "032148e7e44ad31ccaa45c3dab00c97f11d0842d013232de177ec6e9d08b9d56",
+      "bytes": 1635238,
+      "source_record": "outputs/brand-kit/sage-leaf-icons/sage-leaves-after-hours.png",
+      "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "bowerloom-wordmark-ink.svg",
+      "sha256": "c31faca9b6d5efa64e901b678d7f7c5de241ebefb29abc41687dbba32c3830ea",
+      "bytes": 602523,
+      "source_record": "outputs/brand-kit/round-07/alpha/bowerloom-wordmark-plain-ink.svg",
+      "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "bowerloom-wordmark-cream.svg",
+      "sha256": "fb81538f88a75f359df89c65c6ddabbb43d365641fa7c609e10be974ece59e76",
+      "bytes": 602523,
+      "source_record": "outputs/brand-kit/round-07/alpha/bowerloom-wordmark-plain-cream.svg",
+      "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "s4-g3-icon.svg",
+      "sha256": "0285c6f2b60f97bb6c2dccb00ad95a570a8e261a32e5c2d3c7cd39f26c5e6d9f",
+      "bytes": 1111,
+      "source_record": "outputs/brand-kit/round-05/s4-g3-icon.svg",
+      "method": "Unchanged copy of retained brand-kit asset"
+    },
+    {
+      "file": "s4-g3-icon-dark.svg",
+      "sha256": "e3ade54d45cc0a0f72839299411c01af15092ba5e5c94b32b26758a874ebee6f",
+      "bytes": 1144,
+      "source_record": "outputs/brand-kit/round-05/s4-g3-icon-dark.svg",
+      "method": "Unchanged copy of retained brand-kit asset"
+    }
+  ],
+  "source_record_note": "Source records identify the retained brand-kit handoff, not public download URLs.",
+  "license_note": "No third-party asset license or blanket reuse license is introduced by this manifest. See PROVENANCE.md."
+}
